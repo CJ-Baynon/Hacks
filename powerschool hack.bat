@@ -378,6 +378,7 @@ echo %name%'s grades have all been changed to %grade%!
 echo Now shutdown your computer before you are traced
 echo.
 echo Press any key to comtinue!
+call 04.vbs
 pause >nul
 exit
 
